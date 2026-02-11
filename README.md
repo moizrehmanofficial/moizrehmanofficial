@@ -4,13 +4,17 @@
 
 Passionate Full Stack Developer specializing in building scalable web applications with modern JavaScript technologies.
 
-![Profile views](https://komarev.com/ghpvc/?username=moizrehmanofficial&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=moizrehmanofficial&label=Profile%20views&color=0e75b6&style=flat" alt="moizrehmanofficial" />
+</p>
+
+---
 
 ### 💬 Ask me about
 **MERN Stack, React.js, Node.js, MongoDB, Express.js, TypeScript, Full Stack Development**
 
 ### 📫 How to reach me
-**[immoizrehman@gmail.com](mailto:immoizrehman@gmail.com)**
+**[your-email@example.com](mailto:your-email@example.com)**
 
 ### 🌐 Portfolio
 **[moizrehman.site](https://moizrehman.site)**
@@ -18,10 +22,9 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 ---
 
 ## 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/moizrehmanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moizrehmanofficial" height="30" width="40" /></a>
-<a href="https://moizrehman.site" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="moizrehman.site" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizrehmanofficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://moizrehman.site)
 
 ---
 
@@ -60,18 +63,21 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moizrehmanofficial&show_icons=true&locale=en&layout=compact&theme=radical" alt="moizrehmanofficial" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizrehmanofficial&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizrehmanofficial&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moizrehmanofficial&show_icons=true&locale=en&theme=radical" alt="moizrehmanofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moizrehmanofficial&theme=radical" alt="moizrehmanofficial" /></p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moizrehmanofficial&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="moizrehmanofficial" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizrehmanofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-⭐️ From [moizrehmanofficial](https://github.com/moizrehmanofficial)
+<div align="center">
+  
+### ⭐️ From [moizrehmanofficial](https://github.com/moizrehmanofficial)
+
+**Thanks for visiting! Feel free to explore my repositories and reach out!**
+
+</div>
