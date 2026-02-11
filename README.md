@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Moiz Rehman 👋
 
-<!--
-**moizrehmanofficial/moizrehmanofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- ⚛️ **React.js** - Building dynamic user interfaces
+- 🟢 **Node.js** - Server-side JavaScript
+- 🍃 **MongoDB** - NoSQL database
+- 🚂 **Express.js** - Web application framework
+- 🎨 **Tailwind CSS** - Styling
+
+### 🌐 Portfolio
+Check out my work: **[moizrehman.site](https://moizrehman.site)**
+
+### 📊 GitHub Stats
+![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moizrehmanofficial&show_icons=true&theme=radical)
+
+### 📫 Let's Connect
+- 🌐 Website: [moizrehman.site](https://moizrehman.site)
+- 💼 LinkedIn: [moizrehmanofficial](https://www.linkedin.com/in/moizrehmanofficial)
+- 📧 Email: immoizrehman@gmail.com
+
+---
+
+⭐️ From [moizrehmanofficial](https://github.com/moizrehmanofficial)
