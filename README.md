@@ -14,7 +14,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 **MERN Stack, React.js, Node.js, MongoDB, Express.js, TypeScript, Full Stack Development**
 
 ### 📫 How to reach me
-**[immoizrehman@gmail.com](mailto:immoizrehman@gmail.com)**
+**[moizrehmanofficial@gmail.com](mailto:moizrehmanofficial@gmail.com)**
 
 ### 🌐 Portfolio
 **[moizrehman.site](https://moizrehman.site)**
