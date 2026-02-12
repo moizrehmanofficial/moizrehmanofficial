@@ -25,7 +25,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizrehmanofficial)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://moizrehman.site)
-[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immoizrehman@gmail.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizrehmanofficial@gmail.com)
 
 ---
 
