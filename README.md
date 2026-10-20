@@ -1,8 +1,8 @@
 # Hi 👋, I'm Moiz Rehman
 
-## 🚀 Full Stack Developer
+## 🚀 Full-Stack Software Engineer
 
-Passionate Full Stack Developer specializing in building scalable web applications with modern JavaScript/TypeScript technologies.
+I build production systems end to end, from the database schema and the API to the interface and the server it runs on. Real-time apps, admin panels, job queues and third-party integrations with modern JavaScript/TypeScript.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=moizrehmanofficial&label=Profile%20views&color=0e75b6&style=flat" alt="moizrehmanofficial" />
@@ -11,7 +11,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 ---
 
 ### 💬 Ask me about
-**Next.js, NestJS, React.js, Node.js, TypeScript, PostgreSQL, MongoDB, Prisma, Full Stack Development**
+**Next.js, NestJS, React, Node.js, TypeScript, PostgreSQL, MongoDB, Prisma, Redis, Docker, Full Stack Development**
 
 ### 📫 How to reach me
 **[moizrehmanofficial@gmail.com](mailto:moizrehmanofficial@gmail.com)**
@@ -23,7 +23,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 
 ## 🔗 Connect with me:
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moizrehmanofficial)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moizrehmanofficial)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://moizrehman.site)
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moizrehmanofficial@gmail.com)
 
@@ -55,7 +55,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 ### DevOps & Deployment:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%23131415.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
@@ -75,7 +75,7 @@ Passionate Full Stack Developer specializing in building scalable web applicatio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizrehmanofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=moizrehmanofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
